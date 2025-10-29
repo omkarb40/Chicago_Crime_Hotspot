@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# RStudio
+.Rproj.user/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Data files (if you don't want large CSVs in git, uncomment)
+# Crimes_2020.csv
+# Crimes_2025.csv
+
+# Generated plots
+Rplot_*.png
+
+# Document files
+*.docx
