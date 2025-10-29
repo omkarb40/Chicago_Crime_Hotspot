@@ -34,13 +34,8 @@ source("Crime_Hotspot_Chicago.R")
 - Large binary or intermediate files (for example `.RData`, `.Rhistory` or plot images) are included here for convenience. Consider removing them from the repository and adding them to `.gitignore` if they are not needed in version control.
 - Do not commit sensitive personal data to public repositories. If the crime CSVs contain personally-identifying information, remove or anonymize those fields before publishing.
 
-## License
-
-This repository currently has no license file. If you want to make it public, add a `LICENSE` (for example MIT) to clarify reuse terms.
-
 ## Contact
 
-If you have questions about the code or datasets, open an issue in the repository.
+If you have questions about the code or datasets, open an issue in the repository or comment.
 
 ---
-Generated/updated README to describe the project and how to run it.
